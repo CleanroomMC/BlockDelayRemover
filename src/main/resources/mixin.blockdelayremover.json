@@ -1,0 +1,10 @@
+{
+  "package": "com.cleanroommc.blockdelayremover.mixins",
+  "refmap": "mixins.blockdelayremover.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinPlayerControllerMP"
+  ]
+}
